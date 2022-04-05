@@ -1,0 +1,34 @@
+*, *::before, *::after{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "DejaVu Sans", sans-serif;
+}
+.header{
+    background:#1f2937;
+}
+
+.nav{
+    max-width: 1080px;
+    margin:0 auto;
+    padding:18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-size: 24px;
+    font-weight: 900;
+    color:#f9faf8
+}
+
+.menu{
+    list-style-type: none;
+    display: flex;
+    gap:16px;
+}
+.menu a{
+    text-decoration: none;
+    font-size:18px;
+    color:#e5e7eb;
+}
