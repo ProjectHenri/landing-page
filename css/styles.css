@@ -155,3 +155,18 @@
     background-color: #1f2937;
     border:solid 2px #1f2937;
 }
+footer{
+    background-color: #1f2937;
+}
+.footer-container{
+    max-width:1080px;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:40px 18px;
+}
+.footer-container p{
+    color:#f9faf8;
+    font-size:18px;
+}
