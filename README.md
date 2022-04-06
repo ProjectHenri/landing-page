@@ -6,3 +6,5 @@
     <li>Get a better understanding of <strong>Flexbox</strong> and use it to design the layout of the landing page</li>
     <li>Practice writing <strong>structured</strong> and <strong>accessible</strong> HTML code</li>
 </ul>
+<h2>Image credits:</h2>
+<p>"Modern art" - Photo by Anni Roenkae from Pexels</p>
